@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataStructure.Tests/DataStructure.Tests.csproj" Id="6a258803-9a09-42ad-8e50-f6d0abc3e691" />
+  <Project Path="DataStructure/DataStructure.csproj" />
+</Solution>
